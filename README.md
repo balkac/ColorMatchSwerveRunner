@@ -6,11 +6,6 @@ Game has mainly 3 mechanics :
 2. Stack 
 3. Color - Matching
 
-# Swerve
-1. Stack 
-2. Color - Matching
-3. Basics
-
 # Core 
 The player collects blue, yellow and orange cubes on the platform and tries to match. When 3 cubes of the same color can be collected under each other, those 3 cubes are destroyed.
 
