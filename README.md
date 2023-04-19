@@ -34,6 +34,6 @@ If you get stuck on the obstacle even though there are no cubes, the level will 
 When the finish line is reached, players complete that level successfully.
 
 # About Project
-Project should open with Unity 2021.3.23
-GameScene loads last reached level
-Project has 2 example levels. When the number of levels reached exceeds total level count, the next levels are loaded according to the mode of it.
+1. Project should open with Unity 2021.3.23
+2. GameScene loads last reached level
+3. Project has 2 example levels. When the number of levels reached exceeds total level count, the next levels are loaded according to the mode of it.
