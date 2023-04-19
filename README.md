@@ -2,11 +2,14 @@
 
 # Summary
 Game has mainly 3 mechanics :
+1. Swerve
+2. Stack 
+3. Color - Matching
 
 # Swerve
-Stack 
-Color - Matching
-Basics
+1. Stack 
+2. Color - Matching
+3. Basics
 
 # Core 
 The player collects blue, yellow and orange cubes on the platform and tries to match. When 3 cubes of the same color can be collected under each other, those 3 cubes are destroyed.
@@ -16,14 +19,14 @@ If the user makes 3 matches in a row, fever mode opens. And gains the ability to
 If there is a cube on the bottom, it leaves its mark on the platform.
 
 There are two different gates;
-  Random Gate : The cubes we have are randomly sorted.
-  Order Gate : The cubes we have are sorted by color.
+1. Random Gate : The cubes we have are randomly sorted.
+2. Order Gate : The cubes we have are sorted by color.
 Two different boosts;
-  Jump ramp
-  Speed boost floor
+1. Jump ramp
+2. Speed boost floor
 Two different obstacle;
-  Obstacle 
-  Double Obstacle
+1. Obstacle 
+2. Double Obstacle
 
 If you get stuck on the obstacle even though there are no cubes, the level will fail.
 When the finish line is reached, players complete that level successfully.
