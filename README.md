@@ -21,9 +21,11 @@ If there is a cube on the bottom, it leaves its mark on the platform.
 There are two different gates;
 1. Random Gate : The cubes we have are randomly sorted.
 2. Order Gate : The cubes we have are sorted by color.
+
 Two different boosts;
 1. Jump ramp
 2. Speed boost floor
+
 Two different obstacle;
 1. Obstacle 
 2. Double Obstacle
